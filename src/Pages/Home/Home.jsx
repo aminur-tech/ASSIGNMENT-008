@@ -13,14 +13,18 @@ const Home = () => {
             <p className='text-[#627382] mt-2 mb-2'>At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
 
             <div className="flex gap-4 mt-4 justify-center mb-4">
-                <button className="flex items-center gap-2 bg-black text-white py-3 px-6 rounded-xl hover:bg-gray-800 transition">
-                    <img src="https://i.ibb.co.com/gb9fLr2T/fi-16076057.png" alt="Google Play" className="w-6 h-6" />
-                    Google Play
-                </button>
+                <Link to="https://play.google.com/store/apps?hl=en">
+                    <button className="flex items-center gap-2 bg-black text-white py-3 px-6 rounded-xl hover:bg-gray-800 transition">
+                        <img src="https://i.ibb.co.com/gb9fLr2T/fi-16076057.png" alt="Google Play" className="w-6 h-6" />
+                        Google Play
+                    </button>
+                </Link>
+                <Link to="https://www.apple.com/store">
                 <button className="flex items-center gap-2 bg-gray-100 text-black py-3 px-6 rounded-xl hover:bg-gray-200 transition border">
                     <img src="https://i.ibb.co.com/NgpgRDPd/Group-3.png" alt="App Store" className="w-6 h-6" />
                     App Store
                 </button>
+                </Link>
             </div>
 
             <div>
