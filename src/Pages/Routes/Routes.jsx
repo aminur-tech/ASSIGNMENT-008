@@ -10,16 +10,18 @@ import Error from '../Error/Error';
 export const router = createBrowserRouter([
   {
     path: "/",
-    errorElement: <Error></Error>,
     Component: Root,
+    errorElement: <Error></Error>,
     children: [
       {
         index: true,
         path: '/',
+        loader: () => fetch('/apps.json'),
         Component: Home
       },
       {
         path: '/apps',
+        loader: () => fetch('/apps.json'),
         Component: Apps
       },
       {

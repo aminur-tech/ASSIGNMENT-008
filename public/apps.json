@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Google Meet",
+    "companyName": "Google",
+    "image": "https://i.ibb.co.com/cK16skQY/Google-meet.png",
+    "description": "Google Meet is a comprehensive video conferencing platform designed for high-quality video and voice calls for both personal and professional use. It allows users to host large meetings, webinars, and online classes with seamless connectivity across desktop, mobile, and tablet devices. Integrated with Google Workspace, it offers real-time collaboration through screen sharing, meeting recordings, live captions, and in-meeting chat messaging. Security features include encryption, secure access controls, and meeting moderation tools to ensure a safe experience. With an intuitive interface and robust performance, Google Meet supports efficient remote communication, team collaboration, and educational sessions. Users can easily schedule meetings, join with a single click, and collaborate in real time, making it a reliable platform for work, learning, and social communication. Its integration with other Google apps enhances productivity and coordination, providing a versatile and secure solution for modern communication needs.",
+    "size": "45MB",
+    "reviews": "12k",
+    "ratingAvg": 4.5,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": "0.5k" },
+      { "name": "2 star", "count": "0.3k" },
+      { "name": "3 star", "count": "0.7k" },
+      { "name": "4 star", "count": "3k" },
+      { "name": "5 star", "count": "8.3k" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft",
+    "image": "https://i.ibb.co.com/0pZkVbQ1/Microsoft-Teams.png",
+    "description": "Microsoft Teams is a robust collaboration and communication platform that combines video conferencing, chat messaging, file sharing, and productivity tools for businesses and educational institutions. Deeply integrated with Microsoft 365, it allows teams to collaborate seamlessly on documents, presentations, and projects in real time. Teams supports virtual meetings, webinars, group chats, and task management with intuitive scheduling and notifications. Security and compliance are key, with encrypted communication and controlled access features. The platform enhances productivity by streamlining workflows, centralizing communication, and enabling hybrid and remote work with efficiency. Users can host large-scale online events, share content, and collaborate on projects with ease. Its seamless integration with apps like Word, Excel, and OneNote ensures that work remains connected and accessible across devices. Teams is designed to improve team coordination, foster collaboration, and support secure and efficient digital communication.",
+    "size": "120MB",
+    "reviews": "15k",
+    "ratingAvg": 4.4,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": "0.4k" },
+      { "name": "2 star", "count": "0.4k" },
+      { "name": "3 star", "count": "0.9k" },
+      { "name": "4 star", "count": "5k" },
+      { "name": "5 star", "count": "9.5k" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "image": "https://i.ibb.co.com/PGc9dRDK/Zoom.png",
+    "description": "Zoom is a trusted video conferencing and communication platform that enables online meetings, webinars, and collaborative sessions for businesses, educators, and individuals. Offering HD video quality, screen sharing, recording options, and breakout rooms, it supports interactive and productive online experiences. Zoom prioritizes security with end-to-end encryption and robust access controls, ensuring safe communication. The platform is easy to use across desktop and mobile devices, allowing users to schedule or join meetings effortlessly. It facilitates collaboration through integrated chat, reactions, and file sharing, supporting remote work, online learning, and social interactions. Zoom has become essential for global teams, educators, and professionals seeking reliable and scalable virtual communication. Its flexibility, user-friendly interface, and high-quality performance make it a preferred tool for hosting virtual events, training sessions, and interactive webinars, enhancing connectivity and engagement across different networks and locations.",
+    "size": "90MB",
+    "reviews": "25k",
+    "ratingAvg": 4.6,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": "0.6k" },
+      { "name": "2 star", "count": "0.5k" },
+      { "name": "3 star", "count": "1.2k" },
+      { "name": "4 star", "count": "9k" },
+      { "name": "5 star", "count": "14k" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "image": "https://i.ibb.co.com/CKGpF9mf/whatsapp-icon-free-png.webp",
+    "description": "WhatsApp is a leading instant messaging and communication app offering secure voice and video calls, messaging, and multimedia sharing across platforms. With end-to-end encryption, it ensures privacy and safety for all conversations. WhatsApp supports group chats, status updates, file sharing, and cross-device usage, allowing users to communicate seamlessly anywhere in the world. Its simple interface and reliable performance make it suitable for personal, professional, and community interactions. Users can make video and voice calls, share photos, videos, documents, and locations instantly. WhatsApp integrates with various platforms and supports business accounts for customer engagement, making it a versatile communication solution. Its global reach, security measures, and ease of use have made it one of the most popular messaging apps, serving billions of users and facilitating smooth, real-time connections for social, work, and educational purposes.",
+    "size": "60MB",
+    "reviews": "500k",
+    "ratingAvg": 4.7,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "10k" },
+      { "name": "2 star", "count": "8k" },
+      { "name": "3 star", "count": "20k" },
+      { "name": "4 star", "count": "120k" },
+      { "name": "5 star", "count": "450k" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Viber",
+    "companyName": "Rakuten",
+    "image": "https://i.ibb.co.com/4wPbHrYb/Viber.png",
+    "description": "Viber is a secure messaging and communication app offering voice and video calls, instant messaging, and multimedia sharing. Users can engage in private chats, group conversations, and interactive communities using stickers, GIFs, and emojis. Viber ensures privacy with end-to-end encryption for calls and messages. It supports high-quality voice and video communication globally and is optimized for performance on multiple devices. Viber integrates features such as file sharing, voice messages, and community channels to keep users connected and engaged. Its user-friendly interface, combined with fun interactive elements, makes it suitable for casual, social, and professional communication. Viber’s reliable connectivity and global reach allow individuals and groups to stay in touch easily, enhancing communication experiences for personal, business, and community interactions.",
+    "size": "80MB",
+    "reviews": "350k",
+    "ratingAvg": 4.3,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "5k" },
+      { "name": "2 star", "count": "4k" },
+      { "name": "3 star", "count": "15k" },
+      { "name": "4 star", "count": "80k" },
+      { "name": "5 star", "count": "242k" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Skype",
+    "companyName": "Microsoft",
+    "image": "https://i.ibb.co.com/d4cDPBRj/s.png",
+    "description": "Skype is a versatile communication platform offering free voice and video calls, instant messaging, and screen sharing worldwide. It supports group calls, professional meetings, and personal conversations across devices. Skype ensures secure communication through encryption and provides features such as call recording, chat messaging, and file sharing. Its easy-to-use interface allows users to stay connected with family, friends, or colleagues effortlessly. Skype integrates with Microsoft accounts and supports international calling, making it a reliable option for both casual and business interactions. With consistent performance and accessibility, Skype facilitates remote collaboration, online meetings, and social connectivity. It has become a standard platform for personal and professional communication, combining convenience, flexibility, and global reach to connect users seamlessly across locations.",
+    "size": "95MB",
+    "reviews": "200k",
+    "ratingAvg": 4.2,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "6k" },
+      { "name": "2 star", "count": "5k" },
+      { "name": "3 star", "count": "20k" },
+      { "name": "4 star", "count": "80k" },
+      { "name": "5 star", "count": "85k" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Truecaller",
+    "companyName": "True Software Scandinavia AB",
+    "image": "https://i.ibb.co.com/H5G10W6/Truecaller.png",
+    "description": "Truecaller is a communication management app that identifies unknown calls, blocks spam, and organizes contacts efficiently. It provides advanced caller ID, call blocking, and spam detection features to enhance communication safety. Truecaller allows users to manage calls, messages, and contacts with ease, reducing unwanted interruptions. It also supports instant messaging and integrates with phone systems to provide reliable communication tools. With a user-friendly interface and robust security features, Truecaller is trusted globally for personal and professional communication. Its large user base, combined with smart algorithms, ensures accurate identification and effective spam prevention. Truecaller empowers users to connect safely, maintain organized contacts, and communicate efficiently, making it a valuable tool for enhancing phone-based communication experiences.",
+    "size": "50MB",
+    "reviews": "1M",
+    "ratingAvg": 4.5,
+    "downloads": "250M",
+    "ratings": [
+      { "name": "1 star", "count": "15k" },
+      { "name": "2 star", "count": "10k" },
+      { "name": "3 star", "count": "20k" },
+      { "name": "4 star", "count": "300k" },
+      { "name": "5 star", "count": "905k" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Google Voice",
+    "companyName": "Google",
+    "image": "https://i.ibb.co.com/bgp21wKS/Google-Voice.png",
+    "description": "Google Voice is a communication platform that provides calling, texting, and voicemail services with multi-device support. Integrated with Google Workspace, it allows seamless communication for personal and business use. Users can manage calls, messages, and voicemails efficiently, and make international calls with reliable quality. Google Voice offers number portability, call screening, and spam protection features to ensure a safe and organized experience. Its user-friendly interface, accessibility across devices, and integration with other Google apps make it ideal for professionals, remote workers, and individuals seeking streamlined communication. Google Voice enhances connectivity, productivity, and efficiency by centralizing communication tools in one platform, providing a versatile solution for managing calls and messages across multiple channels and locations.",
+    "size": "35MB",
+    "reviews": "40k",
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": "0.5k" },
+      { "name": "2 star", "count": "0.3k" },
+      { "name": "3 star", "count": "1k" },
+      { "name": "4 star", "count": "12k" },
+      { "name": "5 star", "count": "26k" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Alaap",
+    "companyName": "Alaap Technologies",
+    "image": "https://i.ibb.co.com/tptJ41YJ/Alaap.png",
+    "description": "Alaap is a secure communication app optimized for HD voice and video calls, instant messaging, and multimedia sharing. It is designed to perform efficiently even on low-bandwidth networks, providing reliable connectivity for users globally. Alaap supports group chats, media sharing, and interactive messaging with encryption to ensure privacy and safety. Its simple interface and lightweight design make it suitable for personal and professional communication. Users can connect easily, share files, and maintain smooth conversations without interruptions. Alaap’s focus on secure, efficient, and optimized communication makes it ideal for users seeking a dependable messaging and calling platform that balances performance, security, and user experience for everyday interactions across devices and networks.",
+    "size": "55MB",
+    "reviews": "50k",
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": "1k" },
+      { "name": "2 star", "count": "0.8k" },
+      { "name": "3 star", "count": "3k" },
+      { "name": "4 star", "count": "12k" },
+      { "name": "5 star", "count": "33k" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "image": "https://i.ibb.co.com/Rw58GVm/Telegram.png",
+    "description": "Telegram is a fast and secure messaging platform that provides instant messaging, media sharing, voice/video calls, and cloud synchronization. It emphasizes privacy, performance, and advanced group tools, including channels and bots for engagement. Telegram supports large groups, file sharing up to several GBs, and multi-device access, ensuring seamless communication across devices. Its end-to-end encryption for secret chats ensures security, while features like stickers, polls, and reactions enhance interaction. Trusted globally, Telegram is suitable for personal, community, and professional communication. Its lightweight design, reliable delivery, and focus on privacy make it an ideal platform for users seeking fast, secure, and versatile messaging solutions. Telegram enables efficient connectivity and collaboration, empowering individuals and organizations to communicate effectively across borders and networks.",
+    "size": "70MB",
+    "reviews": "900k",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "12k" },
+      { "name": "2 star", "count": "10k" },
+      { "name": "3 star", "count": "25k" },
+      { "name": "4 star", "count": "120k" },
+      { "name": "5 star", "count": "743k" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Brilliant",
+    "companyName": "Brilliant.org",
+    "image": "https://i.ibb.co.com/v6m93HW6/b.png",
+    "description": "Brilliant is an interactive learning platform focused on math, science, and computer science. It offers problem-solving challenges, visual explanations, quizzes, and guided learning paths to enhance understanding and engagement. Brilliant encourages active learning through interactive lessons that develop critical thinking and analytical skills. Users can explore a wide range of topics, participate in challenges, and apply concepts to real-world scenarios. The platform is designed for students, educators, and lifelong learners seeking to strengthen knowledge and problem-solving abilities. With an intuitive interface and well-structured content, Brilliant makes complex subjects accessible, engaging, and enjoyable. It combines interactive exercises, tutorials, and community-driven learning, providing an effective environment for mastering STEM concepts and fostering curiosity, creativity, and skill development across different levels and disciplines.",
+    "size": "65MB",
+    "reviews": "200k",
+    "ratingAvg": 4.8,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": "2k" },
+      { "name": "2 star", "count": "1.5k" },
+      { "name": "3 star", "count": "5k" },
+      { "name": "4 star", "count": "45k" },
+      { "name": "5 star", "count": "148.5k" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "IMO",
+    "companyName": "imo.im",
+    "image": "https://i.ibb.co.com/0pc1FpWL/imo.png",
+    "description": "IMO is a lightweight communication app providing free HD voice and video calls, instant messaging, and multimedia sharing worldwide. Designed for smooth performance across networks, it ensures reliable connectivity even on low-speed internet. IMO supports group chats, media sharing, and secure messaging with encryption to protect privacy. Its simple interface allows easy navigation for personal and professional communication. The app is suitable for global users seeking fast, reliable, and secure messaging and calling. IMO facilitates interaction across borders, enabling seamless communication for social, educational, and work-related purposes. Its lightweight design, secure messaging, and global reach make it an effective tool for maintaining connections and fostering real-time communication across devices and platforms.",
+    "size": "60MB",
+    "reviews": "200k",
+    "ratingAvg": 4.2,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "8k" },
+      { "name": "2 star", "count": "5k" },
+      { "name": "3 star", "count": "15k" },
+      { "name": "4 star", "count": "50k" },
+      { "name": "5 star", "count": "120k" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Signal",
+    "companyName": "Signal Foundation",
+    "image": "https://i.ibb.co.com/7RzQkX9/signal.png",
+    "description": "Signal is a privacy-first communication app that provides secure messaging, voice calls, and video calls for individuals and groups worldwide. Using advanced end-to-end encryption, Signal ensures that conversations remain completely private and inaccessible to anyone other than the intended recipients. The app supports text messaging, multimedia sharing, group chats, voice messages, and disappearing messages for enhanced security. Signal also works efficiently on low-bandwidth networks, making it reliable for users in areas with limited connectivity. Its open-source protocol allows anyone to review its security features, ensuring transparency and trust. With a clean and user-friendly interface, users can communicate seamlessly across devices, schedule calls, and organize group conversations. Signal has become a preferred choice for users who prioritize privacy, security, and reliable performance in messaging and calling applications, offering a simple yet powerful solution for personal, professional, and organizational communication.",
+    "size": "50MB",
+    "reviews": "150k",
+    "ratingAvg": 4.6,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": "3k" },
+      { "name": "2 star", "count": "2k" },
+      { "name": "3 star", "count": "8k" },
+      { "name": "4 star", "count": "45k" },
+      { "name": "5 star", "count": "92k" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Line",
+    "companyName": "LINE Corporation",
+    "image": "https://i.ibb.co.com/9V5F1KH/line.png",
+    "description": "Line is a comprehensive communication app that allows users to send messages, make voice and video calls, and share multimedia across platforms. It is known for its fun and interactive features such as stickers, emojis, and social timelines that enhance conversations and engagement. Line supports individual chats, group messaging, and official accounts for businesses to interact with customers. Users can share photos, videos, voice messages, and files, making it a versatile platform for personal and professional communication. The app provides high-quality voice and video calling, works efficiently on low-bandwidth networks, and supports cross-device synchronization for seamless connectivity. Security features, including encryption, ensure privacy and safety. Line combines interactive social features with reliable communication tools, making it suitable for casual social use, professional interaction, and community engagement, providing a vibrant and secure messaging ecosystem for millions of users worldwide.",
+    "size": "70MB",
+    "reviews": "300k",
+    "ratingAvg": 4.4,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": "5k" },
+      { "name": "2 star", "count": "3k" },
+      { "name": "3 star", "count": "15k" },
+      { "name": "4 star", "count": "80k" },
+      { "name": "5 star", "count": "197k" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "WeChat",
+    "companyName": "Tencent",
+    "image": "https://i.ibb.co.com/2PrsH7p/wechat.png",
+    "description": "WeChat is an all-in-one communication platform that provides instant messaging, voice and video calls, and a suite of social networking tools. It supports individual and group conversations, media sharing, and interactive features like moments and mini-programs that integrate with services beyond messaging. Users can make high-quality calls, exchange files, and interact within large communities, both socially and professionally. WeChat emphasizes secure communication, supporting encrypted messaging and privacy controls to protect user data. Its seamless cross-device support allows access from smartphones, tablets, and desktops, making it convenient for work and personal interactions. With integrated payment solutions, social timelines, and business services, WeChat functions as more than just a messaging app, becoming an ecosystem for daily life, commerce, and communication. The platform’s versatility, high-quality performance, and extensive feature set make it a global tool for reliable and interactive communication across personal, business, and community networks.",
+    "size": "120MB",
+    "reviews": "800k",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "20k" },
+      { "name": "2 star", "count": "15k" },
+      { "name": "3 star", "count": "60k" },
+      { "name": "4 star", "count": "250k" },
+      { "name": "5 star", "count": "455k" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Messenger",
+    "companyName": "Meta",
+    "image": "https://i.ibb.co.com/YThXW3b/messenger.png",
+    "description": "Messenger is a popular communication app integrated with Facebook that enables users to send messages, make voice and video calls, and share multimedia content. It offers real-time messaging, interactive features such as reactions, stickers, GIFs, and voice notes, and supports group chats for seamless social and professional interaction. Messenger works across multiple devices, including smartphones, tablets, and desktops, ensuring users can stay connected anywhere. It provides secure communication with privacy settings and encryption features, protecting sensitive conversations. Additionally, Messenger integrates with Facebook services and business pages, allowing companies to engage with customers efficiently. With high-quality voice and video calling, media sharing, and collaborative features, Messenger has become a versatile platform for social networking, personal communication, and professional interactions. Its user-friendly interface and continuous feature enhancements make it a reliable and widely-used messaging and calling app for millions worldwide.",
+    "size": "80MB",
+    "reviews": "1M",
+    "ratingAvg": 4.5,
+    "downloads": "2B",
+    "ratings": [
+      { "name": "1 star", "count": "25k" },
+      { "name": "2 star", "count": "15k" },
+      { "name": "3 star", "count": "60k" },
+      { "name": "4 star", "count": "300k" },
+      { "name": "5 star", "count": "600k" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "KakaoTalk",
+    "companyName": "Kakao Corp",
+    "image": "https://i.ibb.co.com/4tR7H4z/kakaotalk.png",
+    "description": "KakaoTalk is a versatile messaging and calling app that provides free voice and video calls, instant messaging, and multimedia sharing with individuals and groups. It features interactive elements such as emoticons, stickers, and chat themes to make conversations engaging. KakaoTalk supports group chats, file sharing, and notifications across devices, ensuring seamless communication. Security and privacy are emphasized, with encrypted messaging and access control features. The app also integrates social and business functionalities, such as channels and official accounts, enabling organizations to communicate with users effectively. With high-quality voice and video calls, KakaoTalk performs reliably on mobile networks and Wi-Fi connections. Its simple interface, combined with rich media capabilities, makes it ideal for casual, social, and professional use. KakaoTalk offers a comprehensive platform that blends communication, social engagement, and productivity tools for a diverse user base across the globe.",
+    "size": "60MB",
+    "reviews": "250k",
+    "ratingAvg": 4.4,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "4k" },
+      { "name": "2 star", "count": "3k" },
+      { "name": "3 star", "count": "12k" },
+      { "name": "4 star", "count": "80k" },
+      { "name": "5 star", "count": "151k" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "image": "https://i.ibb.co.com/8qQdT2d/discord.png",
+    "description": "Discord is a comprehensive communication platform designed for communities, gamers, and professional teams. It offers text, voice, and video chat along with high-quality screen sharing and multimedia capabilities. Users can create servers with multiple channels, organize conversations, and manage roles and permissions to facilitate collaboration. Discord supports private and public communities, group messaging, and interactive features such as reactions, emojis, and polls to keep communication engaging. Its security and moderation tools ensure safe and controlled interactions. With cross-platform support on desktop, mobile, and web, Discord allows seamless communication across devices. The app is ideal for gaming communities, professional teams, study groups, and social networks, providing a reliable space for collaboration, social interaction, and real-time discussion. Discord’s combination of powerful features, flexibility, and security makes it a versatile tool for diverse user groups seeking effective and interactive communication.",
+    "size": "90MB",
+    "reviews": "500k",
+    "ratingAvg": 4.6,
+    "downloads": "250M",
+    "ratings": [
+      { "name": "1 star", "count": "10k" },
+      { "name": "2 star", "count": "7k" },
+      { "name": "3 star", "count": "25k" },
+      { "name": "4 star", "count": "130k" },
+      { "name": "5 star", "count": "328k" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Hangouts",
+    "companyName": "Google",
+    "image": "https://i.ibb.co.com/xRcnfVx/hangouts.png",
+    "description": "Google Hangouts is a unified communication platform that provides messaging, voice, and video calling services for both personal and professional use. It enables users to send text messages, make high-quality voice and video calls, and engage in group conversations. Hangouts is integrated with Google Workspace, allowing seamless collaboration on documents, calendars, and meetings. The platform supports cross-device functionality, so users can access conversations on smartphones, tablets, and desktops without interruptions. Google Hangouts also provides multimedia sharing, including photos, videos, and files, ensuring versatile communication. Its simple, intuitive interface makes it easy to connect with colleagues, friends, and family. Security features like encryption protect conversations and sensitive data. Hangouts is suitable for remote work, online learning, and social interaction, offering a reliable, accessible, and user-friendly platform for communication across different locations and networks.",
+    "size": "50MB",
+    "reviews": "120k",
+    "ratingAvg": 4.1,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "5k" },
+      { "name": "2 star", "count": "3k" },
+      { "name": "3 star", "count": "10k" },
+      { "name": "4 star", "count": "40k" },
+      { "name": "5 star", "count": "62k" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "JioCall",
+    "companyName": "Reliance Jio",
+    "image": "https://i.ibb.co.com/6GjW1qv/jiocall.png",
+    "description": "JioCall is a VoIP and video calling app specifically designed for Jio network users, providing high-quality voice and video communication over VoLTE and Wi-Fi networks. The app supports SMS messaging, multimedia sharing, call forwarding, and conferencing, making it a versatile communication solution. Users can make one-to-one or group calls with seamless connectivity and excellent performance even in areas with moderate network coverage. JioCall integrates with other Jio services and devices, ensuring consistent experience across smartphones, tablets, and desktops. It offers features like call recording, voicemail management, and notifications for missed calls. Security is implemented to safeguard communication and user data. With its user-friendly interface and reliable network performance, JioCall is suitable for personal, professional, and organizational communication, offering an efficient platform for users in India who seek high-quality calling, messaging, and connectivity services within the Jio ecosystem.",
+    "size": "40MB",
+    "reviews": "80k",
+    "ratingAvg": 4.2,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": "2k" },
+      { "name": "2 star", "count": "1k" },
+      { "name": "3 star", "count": "5k" },
+      { "name": "4 star", "count": "25k" },
+      { "name": "5 star", "count": "47k" }
+    ]
+  }
+]

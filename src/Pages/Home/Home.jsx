@@ -1,6 +1,12 @@
+
 import React from 'react';
+import { Link, useLoaderData } from 'react-router';
+import Card from '../Card/Card';
 
 const Home = () => {
+    const data = useLoaderData()
+    // console.log(data)
+
     return (
         <div className='text-center'>
             <h1 className='text-6xl  font-extrabold mt-4'>We Build <br /> <span className='text-[#632EE3]'>Productive</span> Apps</h1>
@@ -50,6 +56,15 @@ const Home = () => {
                 <h2 className='text-4xl font-bold'>Trending Apps</h2>
                 <p className='text-[#627382]'>Explore All Trending Apps on the Market developed by us</p>
             </div>
+
+
+            {/* Trending Apps */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 justify-items-center mt-6">
+                {
+                    data.slice(0, 12).map(d => <Card key={d.id} d={d}></Card>)
+                }
+            </div>
+            <Link to='/apps'> <button className='btn mt-4 mb-4 text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>Show All</button></Link>
 
 
         </div>
