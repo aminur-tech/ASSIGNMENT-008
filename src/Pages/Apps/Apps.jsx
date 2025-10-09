@@ -6,7 +6,7 @@ const Apps = () => {
     const data = useLoaderData();
     const [search, setSearch] = useState('');
     const [loading, setLoading] = useState(true);
-     const navigate = useNavigate();
+    const navigate = useNavigate();
 
     useEffect(() => {
         if (data && data.length) {
@@ -24,8 +24,8 @@ const Apps = () => {
 
     const handleGoBack = () => {
         // console.log('Going back...');
-        setSearch(''); 
-        navigate('/apps'); 
+        setSearch('');
+        navigate('/apps');
     };
 
 
@@ -37,12 +37,17 @@ const Apps = () => {
 
     return (
         <div>
-            <div className='text-center mt-4 mb-4'>
-                <h1 className='text-4xl font-bold'>Our All Applications</h1>
-                <p className='text-[#627382]'>Explore All Apps on the Market developed by us. We code for Millions</p>
+            <div className="text-center mt-6 mb-6 px-4 sm:px-6">
+                <h1 className="text-3xl sm:text-4xl font-bold leading-tight">
+                    Our All Applications
+                </h1>
+                <p className="text-[#627382] mt-2 text-sm sm:text-base">
+                    Explore All Apps on the Market developed by us. <br className="hidden sm:block" /> We code for Millions
+                </p>
             </div>
 
-            <div className='flex justify-between items-center mb-4'>
+
+            <div className='flex justify-between items-center mb-4 p-1'>
                 <h4 className='text-2xl font-semibold'>({filteredApps.length}) Apps Found</h4>
                 <div>
                     <label className="input flex items-center border rounded p-2">
@@ -70,7 +75,7 @@ const Apps = () => {
             </div>
 
             {filteredApps.length > 0 ? (
-                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 justify-items-center mt-6">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6 justify-items-center mt-6">
                     {filteredApps.map(d => <Card key={d.id} d={d} />)}
                 </div>
             ) : (

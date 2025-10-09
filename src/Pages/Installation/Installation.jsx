@@ -58,10 +58,15 @@ const Installation = () => {
 
     return (
         <div>
-            <div className='text-center mt-4 mb-4'>
-                <h1 className='text-4xl font-bold'>Your Installed Apps</h1>
-                <p className='text-[#627382]'>Explore All Trending Apps on the Market developed by us</p>
+            <div className="text-center mt-6 mb-6 px-4 sm:px-6">
+                <h1 className="text-3xl sm:text-4xl font-bold leading-tight">
+                    Your Installed Apps
+                </h1>
+                <p className="text-[#627382] mt-2 text-sm sm:text-base">
+                    Explore All Trending Apps on the Market developed by us
+                </p>
             </div>
+
             <div className='flex items-center justify-between mt-4 mb-4'>
                 <h4>({installedApps.length}) Apps Found</h4>
                 <div>

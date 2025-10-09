@@ -2,6 +2,7 @@ import { Download, Star } from 'lucide-react';
 import React from 'react';
 import AppDetail from '../AppDetail/AppDetail';
 import { Link } from 'react-router';
+import { IoIosStar } from 'react-icons/io';
 
 
 const Card = ({ d }) => {
@@ -13,7 +14,7 @@ const Card = ({ d }) => {
         <Link to={`/appDetail/${d.id}`}>
             <div className='cursor-pointer'>
 
-                <div className="w-[220px] h-auto border border-gray-200 rounded-2xl p-4 bg-white shadow-lg hover:shadow-xl transition-shadow duration-300 mb-4">
+                <div className="max-w-[220px] h-auto border border-gray-200 rounded-2xl p-10 bg-white shadow-lg hover:shadow-xl transition-shadow duration-300 mb-4">
                     {/* Image Section */}
                     <div className="w-full h-[120px] rounded-xl overflow-hidden mb-3 relative">
                         <img
@@ -35,7 +36,7 @@ const Card = ({ d }) => {
                             {downloads}
                         </div>
                         <div className="flex items-center gap-1 text-yellow-500 font-medium">
-                            <Star size={16} />
+                            <IoIosStar size={16}></IoIosStar>
                             {ratingAvg}
                         </div>
                     </div>

@@ -9,9 +9,14 @@ const Home = () => {
 
     return (
         <div className='text-center'>
-            <h1 className='text-6xl  font-extrabold mt-4'>We Build <br /> <span className='text-[#632EE3]'>Productive</span> Apps</h1>
-            <p className='text-[#627382] mt-2 mb-2'>At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mt-6 leading-tight"> We Build <br /> <span className="text-[#632EE3]">Productive</span> Apps
+            </h1>
 
+            <p className="text-[#627382] mt-3 mb-4 text-sm sm:text-base">
+                At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br className="hidden sm:block" />
+                Our goal is to turn your ideas into digital experiences that truly make an impact.
+            </p>
+            
             <div className="flex gap-4 mt-4 justify-center mb-4">
                 <Link to="https://play.google.com/store/apps?hl=en">
                     <button className="flex items-center gap-2 bg-black text-white py-3 px-6 rounded-xl hover:bg-gray-800 transition">
@@ -20,10 +25,10 @@ const Home = () => {
                     </button>
                 </Link>
                 <Link to="https://www.apple.com/store">
-                <button className="flex items-center gap-2 bg-gray-100 text-black py-3 px-6 rounded-xl hover:bg-gray-200 transition border">
-                    <img src="https://i.ibb.co.com/NgpgRDPd/Group-3.png" alt="App Store" className="w-6 h-6" />
-                    App Store
-                </button>
+                    <button className="flex items-center gap-2 bg-gray-100 text-black py-3 px-6 rounded-xl hover:bg-gray-200 transition border">
+                        <img src="https://i.ibb.co.com/NgpgRDPd/Group-3.png" alt="App Store" className="w-6 h-6" />
+                        App Store
+                    </button>
                 </Link>
             </div>
 
