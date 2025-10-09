@@ -1,5 +1,5 @@
 import { Download } from 'lucide-react';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { BiSolidLike } from 'react-icons/bi';
 import { IoMdStar } from 'react-icons/io';
 import { useLoaderData, useParams } from 'react-router';
@@ -43,6 +43,13 @@ const AppDetail = () => {
         }
     }
 
+    useEffect(() => {
+        const stored = JSON.parse(localStorage.getItem('installed')) || [];
+        if (stored.includes(appId)) {
+            setInstalled(true);
+        }
+    }, [appId]);
+
     return (
         <div className="p-4">
             {/* Top Section */}
@@ -77,7 +84,7 @@ const AppDetail = () => {
 
                     {/* Install Button */}
                     <button onClick={() => handleInstall(appId)} className=" bg-green-500 text-white py-2 px-2 rounded-lg font-semibold hover:bg-green-600 transition"
-                    disabled={installed} >
+                        disabled={installed} >
 
                         {installed ? "Installed" : `Install Now (${size})`}
 
