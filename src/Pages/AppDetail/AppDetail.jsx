@@ -1,8 +1,9 @@
 import { Download } from 'lucide-react';
-import React from 'react';
+import React, { useState } from 'react';
 import { BiSolidLike } from 'react-icons/bi';
 import { IoMdStar } from 'react-icons/io';
 import { useLoaderData, useParams } from 'react-router';
+import { toast } from 'react-toastify';
 import {
     BarChart,
     Bar,
@@ -13,12 +14,14 @@ import {
     CartesianGrid,
     LabelList,
 } from 'recharts';
+import { addToStoredDB } from '../../Component/AddToDB/AddToDB';
 
 const AppDetail = () => {
     const { id } = useParams();
     const appId = parseInt(id);
     const data = useLoaderData();
     const app = data.find(app => app.id === appId);
+    const [installed, setInstalled] = useState(false)
 
     const { image, title, downloads, ratingAvg, reviews, companyName, size, description, ratings } = app;
 
@@ -28,7 +31,17 @@ const AppDetail = () => {
             ? parseFloat(r.count) * 1000
             : parseFloat(r.count);
         return { ...r, count };
-    }).reverse(); // Reverse to show 5 star on top
+    }).reverse();
+
+
+    const handleInstall = id => {
+        console.log(` installing app with id: ${id}`)
+        if (!installed) {
+            toast("✅ Installed");
+            setInstalled(true)
+            addToStoredDB(id)
+        }
+    }
 
     return (
         <div className="p-4">
@@ -63,8 +76,11 @@ const AppDetail = () => {
                     </div>
 
                     {/* Install Button */}
-                    <button className=" bg-green-500 text-white py-2 px-2 rounded-lg font-semibold hover:bg-green-600 transition">
-                        Install Now ({size})
+                    <button onClick={() => handleInstall(appId)} className=" bg-green-500 text-white py-2 px-2 rounded-lg font-semibold hover:bg-green-600 transition"
+                    disabled={installed} >
+
+                        {installed ? "Installed" : `Install Now (${size})`}
+
                     </button>
                 </div>
             </div>
