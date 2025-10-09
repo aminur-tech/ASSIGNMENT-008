@@ -16,7 +16,7 @@ const Card = ({ d }) => {
 
                 <div className="max-w-[220px] h-auto border border-gray-200 rounded-2xl p-10 bg-white shadow-lg hover:shadow-xl transition-shadow duration-300 mb-4">
                     {/* Image Section */}
-                    <div className="w-full h-[120px] rounded-xl overflow-hidden mb-3 relative">
+                    <div className="w-full  rounded-xl overflow-hidden mb-3 relative">
                         <img
                             src={image}
                             alt={title}
